@@ -1,0 +1,8 @@
+apt install ruby -y
+apt install figlet -y
+apt install ruby -y
+cd lolcat-master/bin
+gem install lolcat
+cd -
+cp s.py /usr/bin/spirit
+
